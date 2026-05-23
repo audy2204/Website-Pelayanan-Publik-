@@ -43,9 +43,9 @@ def save_to_google_sheets(data, kategory):
 # FUNGSI UNTUK MEMBACA & MENGGABUNG DATA 
 def load_all_data():
     files = {
-        'Pengaduan': r'D:\\Vscode x Phyton\\Proyek Semester 6\\DATA PENGADUAN.xlsx',
-        'Aspirasi': r'D:\\Vscode x Phyton\\Proyek Semester 6\\DATA ASPIRASI.xlsx',
-        'Permohonan Informasi': r'D:\\Vscode x Phyton\\Proyek Semester 6\\DATA PERMOHONAN INFORMASI BARU.xlsx'
+        'Pengaduan': r'DATA PENGADUAN.xlsx',
+        'Aspirasi': r'DATA ASPIRASI.xlsx',
+        'Permohonan Informasi': r'DATA PERMOHONAN INFORMASI BARU.xlsx'
     }
     
     all_dfs = []
