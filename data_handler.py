@@ -43,7 +43,7 @@ def save_to_google_sheets(data, kategory):
 # FUNGSI UNTUK MEMBACA & MENGGABUNG DATA 
 def load_all_data():
     files = {
-        'Pengaduan': r'DATA PENGADUAN.xlsx',
+        'Pengaduan': r'DATA PENGADUAN BARU.xlsx',
         'Aspirasi': r'DATA ASPIRASI.xlsx',
         'Permohonan Informasi': r'DATA PERMOHONAN INFORMASI BARU.xlsx'
     }
