@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dindik-2026",
+  "private_key_id": "c399ec22c103dfdebbd7ca46ccb5043f2c5756eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrUbr6aOVWYd10\nwLVSPyDHVnlbEsAivLnCTRoAGXPmnkRDlz5dG98cyZK+QGy3jo2pA6Jb9vZr3i9G\nCoJccuv6zqyejxc1B8YldmPHg9mVXGWtLX22V5JMPRmixwtanqua1pc/Iu8xQAi6\nlXml6j3LfuFmB04U9RxG+IPKnYKjHfgRcP+nsaFvQ4TAJUpI/O5INIazgD7XvWNK\n86gLMs+lBW9eVNn5KJIn85TGOU/mFpd0nq6+CfTMnk3xkGRlnM91JXUsDvXAlr27\nx9kviYakZdNAiCKX6MxwWq2QrHgn99cNMXB/an9RFhZG6+68mbionhvfAC4TamOs\n4lV/SNx/AgMBAAECggEAC7eSJsmu+A4QUImdk/udUk4DMRUeE4tHIAUqhFvLk8pN\nAO3eCqAx8kPN7F5SfukaMFvs/IZcGMkgSXDp/iQeBDTHlQd46AC903IaAO2Tn4E9\nswFQWg8epvg0iu/Ni5CKAu9Tdo39G7paAw1xhsUui6NNVOY4t8PwbXNWWVU6N82s\n0FK4qoHuVeuftjAINcqhib79uWzQw+IhLXiWRMTtoxMyWoVt4AZEmdXVeQD00md+\nyAzrFJQzt7HXA3NoxpSOI6bkwBzSUukMIUDBUyVvNeFv2s9gpw7hCT40geYXZUJs\nEwQB9q2myBxq1J3kthsybPOe+1EQAJ0X5r93AuW+AQKBgQDbuYWxeeDBwOtRsU6W\nsu1ubVRV+GnvM+TNqjhY8tydqEzQe8YNQF8di2yWL2RPsIy58JPr3N0Wc+Cct6ij\nRIZcqa1wcGAh6HFRhvGiSAAYvll2/y0/wAADHTvk7/CWEI7ioMm+i5zsAl17mDFb\nBOWjCOcURw2IjiyCzRgZCEMo7wKBgQDHmmS4u1/4CUnHYoh3M9vGwJsYwH2DS9LQ\nAStdWFE6RtLPtXd5g4x81HUmNf3a8TZhAE5V60StGqzs+ZqObd7T1/mP4uMq7v60\nl9Z1eVyl6MC1PZzwtI7mfqKh+v0ETIDmJP3uC7cBa4UAUYsMPm6J3cU69Wp+ZD+9\n7f2JvlrlcQKBgQDUTUajfAqxy1DUJ0izDYGicBrL0nGxAWgzXCSDtW17G/HUg7OS\nfD8rEdtCpdn7sa/XvV9/x3ELz70YT9CuqHhWsk/1027fdHOBfaydy4nkXo+dDeRP\ns5mPaMDFbRz+MlONICSuasGdvI9M63nM40dqpyB3lEu8RPs3CyocjcIumwKBgH+J\nbEAJIannrWej0tRvo0ccfD1ViR0ijqHvjVjIfKZC6KJlLeDLqDF+wxfWOczygS97\ntZH6kNgWilWkqxfEpjMv9br1Wvds2/xiZFqNYCB2VuO3aZb3l7M5SQs8xvw/McFb\n85BtldJndAUfFTyOi6y1sjcY5qG5xmzCK1Ue9w9RAoGADqI9/InqYSiV41W/oN2j\ntU4naYa94GgFIOIsi1fk7B+e3nP3ZNQLkPg7DuteKoJ79oA/aXgT54ecSwrUOcDc\n2lS3VSWPECZOurCDXh+HWznTAKSWjD0VgfjCh9IC61EKMHKuo1dAB14U8xTqsczL\nn+oQzsp2+2LLe8OPcXseP4g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pelayanan-publik-dindik@dindik-2026.iam.gserviceaccount.com",
+  "client_id": "115650937031007965143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pelayanan-publik-dindik%40dindik-2026.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

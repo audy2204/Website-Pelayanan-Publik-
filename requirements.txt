@@ -1,0 +1,21 @@
+# Core Framework
+streamlit>=1.30.0
+
+# Navigation Component
+streamlit-option-menu>=0.3.6
+
+# Data Manipulation & Analytical Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+plotly>=5.15.0
+
+# Google Sheets API Integration
+gspread>=5.10.0
+google-auth>=2.20.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+
+# Natural Language Processing & Machine Learning (Automated Template Responding)
+scikit-learn>=1.2.0
